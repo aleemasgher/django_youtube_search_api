@@ -131,4 +131,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-YT_API_KEY = 'AIzaSyBulsWDuM8IM6yFPOeqjZek_00BMm8RZOk'
+YT_API_KEY = ''
